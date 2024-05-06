@@ -14,6 +14,7 @@ Companies that deploy customer segmentation are under the notion that every cust
  While using the k-means clustering algorithm, the first step is to indicate the number of clusters (k) that we wish to produce in the final output. The algorithm starts by selecting k objects from dataset randomly that will serve as the initial centers for our clusters. These selected objects are the cluster means, also known as centroids.
 
  Dataset
+ 
  The dataset consists of following five features of 200 customers:
  1. CustomerID: Unique ID assigned to the customer
  2. Gender: Gender of the customer
